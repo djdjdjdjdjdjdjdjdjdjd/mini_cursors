@@ -21,5 +21,3 @@ download the file by pressing on <>code then press Download ZIP button and then 
 4. in the scheme section click on dropdown menu and select mini.cur
 5. click on 'apply' then 'ok'
 
-# results
-enjoy!
