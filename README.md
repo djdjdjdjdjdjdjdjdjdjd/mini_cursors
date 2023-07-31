@@ -4,7 +4,7 @@ a small cursor set for windows.
 ![image](https://github.com/djdjdjdjdjdjdjdjdjdjd/mini_cursors/assets/118541810/2e551c0f-b6f7-4fe0-aa69-0c129d243831)
 
 # instructions
-download the file by pressing on <>code then press Download Zip button and then drag the folder to your desktop
+download the file by pressing on <>code then press Download ZIP button and then drag the folder to your desktop
 
 # manual method
 1. press win. and R
